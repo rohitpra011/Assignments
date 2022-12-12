@@ -1,2 +1,1 @@
-"# Assignments" 
-"# Assignments" 
+This repository contains solutions of problems from leetcode and GATE. I have implemented the solutions in c++ language. I have tried to solve the problems in very effecient, managed and understandable manner. 
